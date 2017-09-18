@@ -1,0 +1,19 @@
+{
+  "name": "cellular-automata",
+  "version": "0.0.1",
+  "description": "a simple node.js module for cellular automata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msimp19/ca-js.git"
+  },
+  "author": "Michael Simpson <michaelsimpson2019@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msimp19/ca-js/issues"
+  },
+  "homepage": "https://github.com/msimp19/ca-js#readme"
+}
